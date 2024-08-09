@@ -38,3 +38,8 @@ I love programming and I love Java.
 
 ![](https://raw.githubusercontent.com/bodyzxy/bodyzxy/main/assets/github-contribution-grid-snake.svg)
 
+### My GitHub Stats
+
+![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodyzxy&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodyzxy&layout=compact)
+
