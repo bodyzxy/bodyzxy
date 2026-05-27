@@ -32,8 +32,6 @@ I love programming and I love Java.
 ### Contact me:
 
 - Twitter: [![Twitter](https://img.shields.io/badge/@ddg_hjhf-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ddg_hjhf)
-- Email: [![Email](https://img.shields.io/badge/zhangxiangyong6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zhangxiangyong6@gmail.com)
-
 ### My GitHub Contributions
 
 ![](https://raw.githubusercontent.com/bodyzxy/bodyzxy/main/assets/github-contribution-grid-snake.svg)
